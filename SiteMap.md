@@ -256,4 +256,20 @@ style C1 fill:#FF7675,color:#fff
 style C2 fill:#FF7675,color:#fff
 style C3 fill:#FF7675,color:#fff
 
+%% --- SOLUTION FOR GAMERS
+Home --> SolutionForGamers[Рішення для геймерів]
+
+%% --- SOLUTION FOR DESIGNERS
+Home --> SolutionForDesigners[Рішення для дизайнерів]
+
+%% --- STREAMING SOLUTION
+Home --> StreamingSolution[Рішення для стрімінгу]
+
+%% --- BUSINESS SOLUTION
+Home --> BusinessSolution[Рішення для бізнесу]
+
+style SolutionForGamers fill:#6C5CE7,color:#fff
+style SolutionForDesigners fill:#E84393,color:#fff
+style StreamingSolution fill:#00CEC9,color:#fff
+style BusinessSolution fill:#FDCB6E,color:#000 
 ```
