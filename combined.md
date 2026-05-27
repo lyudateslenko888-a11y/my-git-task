@@ -16,6 +16,8 @@ flowchart LR
     Home --> About["Про компанію"]
     Home --> Contacts["Контакти"]
     Home --> Cart["cart"]
+    Home --> Cart["cart"]
+    Cart --> PlacingAnOrder["order"]
     Home --> Footer["footer"]
 
     Header --> Search["searching field"]
