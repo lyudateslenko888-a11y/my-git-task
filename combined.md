@@ -36,7 +36,6 @@ flowchart LR
     Language --> UA["UA"]
     Language --> RU["RU"]
 
-    Account --> SignIn["sign in"]
     Account --> LogIn["log in"]
     Account --> A1["Вхід"]
     Account --> A2["Реєстрація"]
